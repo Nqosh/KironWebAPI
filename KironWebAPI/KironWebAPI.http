@@ -1,0 +1,6 @@
+@KironWebAPI_HostAddress = http://localhost:5127
+
+GET {{KironWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
